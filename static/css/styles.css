@@ -1,0 +1,18 @@
+body {
+  text-align: center;
+}
+
+#tooltip {
+  position: absolute;
+  pointer-events: none;
+  background: black;
+  color: white;
+  padding: 10px;
+  border-radius: 10px;
+  line-height: 0;
+}
+
+#tooltip p {
+  padding: 0;
+  margin: 0;
+}
